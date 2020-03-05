@@ -5,7 +5,7 @@ Achilles-Greek-Melee-Physical-Warrior
 
 Agni-Hindu-Ranged-Magical-Mage
 
-AhMuzenCab-Ranged-Physical-Hunter
+AhMuzenCab-Mayan-Ranged-Physical-Hunter
 
 AhPuch-Mayan-Ranged-Magical-Mage
 
