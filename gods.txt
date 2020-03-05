@@ -64,6 +64,7 @@ Loki-Norse-Melee-Physical-Assassin
 Medusa-Greek-Ranged-Physical-Hunter
 Mercury-Roman-Melee-Physical-Assassin
 Merlin-Arthurian-Ranged-Magical-Mage
+Mulan-Chinese-Melee-Physical-Warrior
 NeZha-Chinese-Melee-Physical-Assassin
 Neith-Egyptian-Ranged-Physical-Hunter
 Nemesis-Greek-Melee-Physical-Assassin
